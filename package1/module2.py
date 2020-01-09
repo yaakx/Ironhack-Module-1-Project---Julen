@@ -36,6 +36,7 @@ def countries_data(df):
         countries_df = pd.concat([countries_df, df1], sort=False)
     countries_df["Country"] = country_col
     countries_df["Country"] = countries_df.Country.str.replace("-", " ").str.title()
+    countries_df = countries_df.reset_index().drop("index", axis=1)
     return countries_df
 
 

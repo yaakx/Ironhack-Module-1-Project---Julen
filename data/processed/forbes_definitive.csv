@@ -110,7 +110,7 @@
 108,2996,13.0,0.0,157,Jim Kennedy,109,Media & Entertainment  , media,72.0,M,United States
 109,2125,13.0,0.0,156,Blair Parry-Okeden,110,Media & Entertainment  , media,69.0,F,United States
 110,1004,13.0,0.0,96,Alain Wertheimer,111,Fashion & Retail  , Chanel,71.0,M,France
-111,1751,13.0,0.0,97,Gerard Wertheimer,112,Fashion & Retail  , Chanel,68.0,M,France
+111,1751,13.0,0.0,97,Gerard Wertheimer,112,Fashion & Retail  , Chanel,69.0,M,France
 112,7980,12.9,0.0,94,Leonard Lauder,113,Fashion & Retail  , Estee Lauder,82.0,M,United States
 113,1513,12.9,0.0,132,Heinz Hermann Thiele,114,Construction & Engineering  , brakes,78.0,M,Germany
 114,2135,12.8,0.0,121,Dilip Shanghvi,115,Healthcare  , pharmaceuticals,64.0,M,India
@@ -260,7 +260,7 @@
 258,7120,6.6,0.0,264,Wee Cho Yaw,259,Finance and Investments  , banking,90.0,M,Singapore
 259,3782,6.6,0.0,305,Aloys Wobben,260,Energy  , wind turbines,67.0,M,Germany
 260,4627,6.5,0.0,258,Leon Black,261,Finance and Investments  , private equity,68.0,M,United States
-261,5750,6.5,-0.805,241,Ivan Glasenberg,262,Metals & Mining  , mining,62.0,M,Switzerland
+261,5750,6.5,-0.805,241,Ivan Glasenberg,262,Metals & Mining  , mining,63.0,M,Switzerland
 262,1274,6.5,0.0,277,John Paulson,263,Finance and Investments  , hedge funds,64.0,M,United States
 263,3062,6.5,0.0,365,Wei Jianjun,264,Automotive  , automobiles,55.0,M,China
 264,7359,6.4,0.0,262,Francis Choi,265,Real Estate  , real estate,72.0,M,Hong Kong
@@ -374,7 +374,7 @@
 372,7300,5.2,-0.001,314,Alexander Abramov,372,Metals & Mining  ," steel, mining",60.0,M,Russia
 373,4359,5.2,0.0,296,Israel Englander,373,Finance and Investments  , hedge funds,71.0,M,United States
 374,3090,5.2,0.0,420,Frits Goldschmeding,374,Service  , temp agency,86.0,M,Netherlands
-375,6688,5.2,,420,Marian Ilitch,375,Food and Beverage  ," pizza, sports team",86.0,F,United States
+375,6688,5.2,,420,Marian Ilitch,375,Food and Beverage  ," pizza, sports team",87.0,F,United States
 376,2998,5.2,0.0,364,Bruce Kovner,376,Finance and Investments  , hedge funds,74.0,M,United States
 377,3735,5.2,0.0,357,George Lucas,377,Media & Entertainment  , Star Wars,75.0,M,United States
 378,7260,5.2,0.0,507,Kalanithi Maran,378,Media & Entertainment  , media,54.0,M,India
@@ -398,7 +398,7 @@
 396,4256,5.0,0.0,569,Joao Moreira Salles,396,Diversified  ," banking, minerals",58.0,M,Brazil
 397,9302,5.0,0.0,571,Walther Moreira Salles Junior,397,Finance and Investments  ," banking, minerals",63.0,M,Brazil
 398,6221,5.0,0.0,433,Pankaj Patel,398,Healthcare  , pharmaceuticals,66.0,M,India
-399,1338,5.0,0.0,385,Karen Pritzker,399,Service  ," hotels, investments",61.0,F,United States
+399,1338,5.0,0.0,385,Karen Pritzker,399,Service  ," hotels, investments",62.0,F,United States
 400,3022,5.0,0.0,466,Thomas Schmidheiny,400,Construction & Engineering  , cement,74.0,M,Switzerland
 401,9086,5.0,-0.001,416,Vichai Srivaddhanaprabha,401,Fashion & Retail  , duty-free,62.0,M,Thailand
 402,7182,5.0,0.0,321,Keiichiro Takahara,402,Manufacturing  , diapers,88.0,M,Japan
@@ -573,7 +573,7 @@
 571,6030,4.0,0.0,588,Zhang Xuexin,570,Metals & Mining  , aluminum,72.0,M,China
 572,4846,4.0,0.0,562,Zhang Yiming,571,Technology  , software,36.0,M,China
 573,7903,3.9,0.0,740,Suhail Bahwan,572,Diversified  , diversified,81.0,M,Oman
-574,2806,3.9,0.0,574,Rick Caruso,573,Real Estate  , real estate,60.0,M,United States
+574,2806,3.9,0.0,574,Rick Caruso,573,Real Estate  , real estate,61.0,M,United States
 575,4264,3.9,0.0,575,Tom Gores,574,Finance and Investments  , private equity,55.0,M,United States
 576,1686,3.9,0.0,489,Peter Hargreaves,575,Finance and Investments  , financial services,73.0,M,United Kingdom
 577,3923,3.9,0.0,614,Daniela Herz,576,Finance and Investments  , coffee,66.0,F,Germany
@@ -640,7 +640,7 @@
 638,3893,3.6,0.0,689,Friedhelm Loh,637,Manufacturing  , manufacturing,73.0,M,Germany
 639,7620,3.6,0.0,664,Kiran Mazumdar-Shaw,638,Healthcare  , biotech,66.0,F,India
 640,6951,3.6,6.684,798,Idan Ofer,639,Diversified  ," drilling, shipping",64.0,M,Israel
-641,6258,3.6,0.0,603,Karsanbhai Patel,640,Diversified  , consumer goods,75.0,M,India
+641,6258,3.6,0.0,603,Karsanbhai Patel,640,Diversified  , consumer goods,76.0,M,India
 642,3761,3.6,0.0,745,Qin Yinglin,641,Food and Beverage  , pig breeding,54.0,M,China
 643,6866,3.6,0.001,432,Qiu Guanghe,642,Fashion & Retail  , fashion retail,68.0,M,China
 644,5955,3.6,0.0,770,Sarath Ratanavadi,643,Energy  , energy,54.0,M,Thailand
@@ -664,13 +664,13 @@
 662,6510,3.5,0.0,1061,Gao Tianguo,661,Real Estate  ," real estate, finance",68.0,M,China
 663,3799,3.5,0.001,680,Joshua Harris,662,Finance and Investments  , private equity,55.0,M,United States
 664,1522,3.5,0.0,502,Arthur Irving,663,Energy  , oil,90.0,M,Canada
-665,2813,3.5,0.0,847,Baba Kalyani,664,Construction & Engineering  , engineering,70.0,M,India
+665,2813,3.5,0.0,847,Baba Kalyani,664,Construction & Engineering  , engineering,71.0,M,India
 666,2179,3.5,0.0,729,Dmitry Kamenshchik,665,Service  , airport,51.0,M,Russia
 667,8861,3.5,0.0,580,Douglas Leone,666,Finance and Investments  , venture capital,62.0,M,United States
 668,7927,3.5,0.0,674,Edwin Leong,667,Real Estate  , real estate,68.0,M,Hong Kong
 669,5488,3.5,0.0,630,Arnon Milchan,668,Media & Entertainment  , movie making,75.0,M,Israel
 670,1339,3.5,0.0,687,Maren Otto,669,Diversified  ," retail, real estate",,F,Germany
-671,3028,3.5,0.0,677,Anthony Pritzker,670,Service  ," hotels, investments",58.0,M,United States
+671,3028,3.5,0.0,677,Anthony Pritzker,670,Service  ," hotels, investments",59.0,M,United States
 672,5110,3.5,0.0,678,Jay Robert (J.B.) Pritzker,671,Finance and Investments  ," hotels, investments",,,
 673,7175,3.5,0.001,604,Mitchell Rales,672,Manufacturing  ," manufacturing, investments",63.0,M,United States
 674,5743,3.5,0.0,455,Kjell Inge Rokke,673,Logistics  ," shipping, seafood",61.0,M,Norway
@@ -976,7 +976,7 @@
 974,6670,2.5,0.0,927,Norman Braman,971,Automotive  ," art, car dealerships",87.0,M,United States
 975,6974,2.5,0.0,1163,Chin Jong Hwa,972,Automotive  , auto parts,61.0,M,Taiwan
 976,6582,2.5,0.0,1003,Cho Tak Wong,973,Manufacturing  , auto parts,73.0,M,Hong Kong
-977,4673,2.5,0.0,1069,John Coates,974,Gambling & Casinos  , online gambling,49.0,M,United Kingdom
+977,4673,2.5,0.0,1069,John Coates,974,Gambling & Casinos  , online gambling,50.0,M,United Kingdom
 978,7019,2.5,0.0,1338,Du Jiangtao,975,Manufacturing  , chemicals,50.0,M,China
 979,2942,2.5,0.0,1135,Aloysio De Andrade Faria,976,Finance and Investments  , banking,,,
 980,5050,2.5,0.0,979,Kenneth Feld,977,Media & Entertainment  ," circus, live entertainment",71.0,M,United States
@@ -1442,7 +1442,7 @@
 1440,7238,1.7,0.0,1424,David Lichtenstein,1437,Real Estate  , real estate,58.0,M,United States
 1441,7391,1.7,0.0,1469,Lim Oon Kuin,1438,Energy  , oil trading,76.0,M,Singapore
 1442,5322,1.7,0.0,1397,Liu Ming Chung,1439,Manufacturing  , paper manufacturing,57.0,M,Brazil
-1443,8056,1.7,0.0,1280,Ma Xiuhui,1440,Manufacturing  , LED lighting,48.0,F,China
+1443,8056,1.7,0.0,1280,Ma Xiuhui,1440,Manufacturing  , LED lighting,49.0,F,China
 1444,9465,1.7,0.0,1487,Prayudh Mahagitsiri,1441,Food and Beverage  ," coffee, shipping",74.0,M,Thailand
 1445,4751,1.7,0.0,1254,Anand Mahindra,1442,Automotive  , automobiles,64.0,M,India
 1446,5100,1.7,0.0,1336,Kishore Mariwala,1443,Food and Beverage  , consumer goods,84.0,M,India
@@ -1485,7 +1485,7 @@
 1483,1134,1.6,-5.19,1435,Faisal Bin Qassim Al Thani,1480,Diversified  ," hotels, diversified",72.0,M,Qatar
 1484,7798,1.6,0.0,1430,William F. Austin,1481,Manufacturing  , hearing aids,,,
 1485,8511,1.6,0.0,1499,Louis Bacon,1482,Finance and Investments  , hedge funds,63.0,M,United States
-1486,5122,1.6,0.0,1701,Achal Bakeri,1483,Manufacturing  , air coolers,59.0,M,India
+1486,5122,1.6,0.0,1701,Achal Bakeri,1483,Manufacturing  , air coolers,60.0,M,India
 1487,9918,1.6,0.0,1575,Othman Benjelloun,1484,Finance and Investments  ," banking, insurance",87.0,M,Morocco
 1488,2880,1.6,0.0,1405,William Berkley,1485,Finance and Investments  , insurance,73.0,M,United States
 1489,3571,1.6,0.0,1399,Aneel Bhusri,1486,Technology  , business software,53.0,M,United States
@@ -1560,7 +1560,7 @@
 1558,3188,1.6,0.0,1622,Luis Enrique Yarur Rey,1554,Finance and Investments  , banking,69.0,M,Chile
 1559,8312,1.6,0.001,1490,Albert Yeung,1555,Diversified  ," real estate, retail",76.0,M,Hong Kong
 1560,8233,1.6,0.001,1186,Yu Rong,1556,Healthcare  , health clinics,48.0,M,China
-1561,8222,1.6,0.0,1794,Kostyantin Zhevago,1557,Metals & Mining  , mining,45.0,M,Ukraine
+1561,8222,1.6,0.0,1794,Kostyantin Zhevago,1557,Metals & Mining  , mining,46.0,M,Ukraine
 1562,6250,1.6,0.0,1548,Zhou Chengjian,1558,Fashion & Retail  , fashion retail,54.0,M,China
 1563,1204,1.6,0.0,1467,Zhou Yaoting,1559,Diversified  ," apparel, real estate",76.0,M,China
 1564,3477,1.6,0.0,2018,Zhuang Kuilong,1560,Manufacturing  , polyester,57.0,M,China
@@ -1601,7 +1601,7 @@
 1599,9970,1.5,0.0,1582,Seth Klarman,1595,Finance and Investments  , investments,62.0,M,United States
 1600,8243,1.5,0.0,1564,Alexander Klyachin,1596,Real Estate  , real estate,52.0,M,Russia
 1601,1917,1.5,0.0,1559,Yuriy Kosiuk,1597,Food and Beverage  , agriculture,51.0,M,Ukraine
-1602,9981,1.5,0.0,1813,Miguel Krigsner,1598,Fashion & Retail  , cosmetics,69.0,M,Brazil
+1602,9981,1.5,0.0,1813,Miguel Krigsner,1598,Fashion & Retail  , cosmetics,70.0,M,Brazil
 1603,2243,1.5,0.0,1707,Lee Yin Yee,1599,Manufacturing  , glass,68.0,M,China
 1604,1484,1.5,0.0,1692,Nicola Leibinger-Kammueller,1600,Manufacturing  , manufacturing,60.0,F,Germany
 1605,7092,1.5,,1692,Li Weiwei,1601,Technology  , online games,43.0,M,China
@@ -1739,7 +1739,7 @@
 1737,8095,1.4,0.0,1708,Manny Stul,1733,Manufacturing  , toys,70.0,M,Australia
 1738,2026,1.4,0.0,1466,Su Rubo,1734,Real Estate  , real estate,65.0,M,China
 1739,3755,1.4,0.0,1789,Fuat Tosyali,1735,Metals & Mining  , steel,57.0,M,Turkey
-1740,7662,1.4,0.0,1664,Kenny Troutt,1736,Telecom  , telecom,71.0,M,United States
+1740,7662,1.4,0.0,1664,Kenny Troutt,1736,Telecom  , telecom,72.0,M,United States
 1741,9180,1.4,0.0,1817,Rufino Vigil Gonzalez,1737,Metals & Mining  , steel,71.0,M,Mexico
 1742,7208,1.4,0.0,1775,Wang Jianfeng,1738,Automotive  , auto parts,50.0,M,China
 1743,9442,1.4,0.0,1783,Wang Jing,1739,Telecom  , telecom services,47.0,M,China
@@ -1823,7 +1823,7 @@
 1821,9839,1.3,0.0,1983,David Penaloza Alanis,1817,Construction & Engineering  , toll roads,46.0,M,Mexico
 1822,1827,1.3,0.0,2053,Andreas Pohl,1818,Finance and Investments  , mutual funds,55.0,M,Germany
 1823,9459,1.3,0.0,2054,"Reinfried Pohl, Jr.",1819,Finance and Investments  , mutual funds,60.0,M,Germany
-1824,5969,1.3,0.0,1830,Mahendra Prasad,1820,Healthcare  , pharmaceuticals,79.0,M,India
+1824,5969,1.3,0.0,1830,Mahendra Prasad,1820,Healthcare  , pharmaceuticals,80.0,M,India
 1825,5104,1.3,0.0,1667,Anton Rabie,1821,Manufacturing  , toys,48.0,M,Canada
 1826,6611,1.3,0.0,1821,Bianca Rinehart,1822,Metals & Mining  , trust fund,42.0,F,Australia
 1827,1742,1.3,0.0,1812,Ginia Rinehart,1823,Metals & Mining  , trust fund,33.0,F,Australia
@@ -1935,7 +1935,7 @@
 1933,1721,1.2,0.0,1942,Li Jun,1929,Manufacturing  , electronics,55.0,M,China
 1934,9244,1.2,,1942,Li Rucheng,1930,Fashion & Retail  , apparel,68.0,M,China
 1935,8259,1.2,0.0,1412,Li Xuhui,1931,Food and Beverage  , soy sauce maker,51.0,F,China
-1936,2479,1.2,0.0,1636,Lim Wee Chai,1932,Manufacturing  , rubber gloves,61.0,M,Malaysia
+1936,2479,1.2,0.0,1636,Lim Wee Chai,1932,Manufacturing  , rubber gloves,62.0,M,Malaysia
 1937,3126,1.2,0.0,2011,Liu Jiang,1933,Energy  , gas,51.0,M,China
 1938,8515,1.2,0.0,1910,Liu Xuejing,1934,Diversified  ," copper, poultry",69.0,M,China
 1939,4102,1.2,0.0,2115,Liu Zhenguo,1935,Service  , sewage treatment,54.0,M,China
@@ -2165,7 +2165,7 @@
 2163,5647,1.0,0.0,1994,Koo Bon-Sik,2159,Technology  , electronics/household products,,,
 2164,5312,1.0,,1994,Igor Kudryashkin,2160,Metals & Mining  , metallurgy,58.0,M,Russia
 2165,8751,1.0,,1994,Lev Kvetnoi,2161,Finance and Investments  , cement,54.0,M,Russia
-2166,4827,1.0,0.0,2056,Theodore Leonsis,2162,Sports  , sports teams,63.0,M,United States
+2166,4827,1.0,0.0,2056,Theodore Leonsis,2162,Sports  , sports teams,64.0,M,United States
 2167,6752,1.0,-0.109,2090,Lev Leviev,2163,Metals & Mining  , diamonds,64.0,M,Israel
 2168,5931,1.0,,2090,Liang Zhaoxian,2164,Manufacturing  , appliances,55.0,M,China
 2169,8394,1.0,0.0,1845,John Liew,2165,Finance and Investments  , Investment Management,52.0,M,United States
