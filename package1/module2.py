@@ -1,5 +1,6 @@
-import pandas as pd
 import requests
+import pandas as pd
+
 
 
 def web_scrapper(url, country):

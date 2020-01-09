@@ -1,6 +1,6 @@
+import sys
 import argparse
 import pandas as pd
-import sys
 import matplotlib.pyplot as plt
 
 
