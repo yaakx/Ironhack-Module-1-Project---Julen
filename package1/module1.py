@@ -4,16 +4,16 @@ from sqlalchemy import create_engine
 
 
 def importing_merging(rel_url):
-    engine = create_engine('sqlite:///' + rel_url)
+    engine = create_engine('sqlite:///' + rel_url + '/data/raw/JulenC.db')
     df_business = pd.read_sql_table('business_info', engine)
     df_personal = pd.read_sql_table('personal_info', engine)
     df_rank = pd.read_sql_table('rank_info', engine)
     df = df_business.merge(df_rank, on=['id', 'Unnamed: 0'], how='left')
     df = df.merge(df_personal, on=['id', 'Unnamed: 0'], how='outer')
-    return df
+    data_cleaning(df, rel_url)
 
 
-def data_cleaning(df):
+def data_cleaning(df, rel_url):
     df["area"] = df["Source"].str.split("==>").str[0]
     df["source"] = df["Source"].str.split("==>").str[1]
     df.drop(['Unnamed: 0', 'lastName', "Source", "realTimeWorth", "image"], axis=1, inplace=True)
@@ -28,11 +28,5 @@ def data_cleaning(df):
     df.loc[df["worthChage (millions USD)"] == "nan", "worthChage (millions USD)"] = np.nan
     df["worthChage (millions USD)"] = df["worthChage (millions USD)"].astype("float64")
     df.loc[df["country"] == 'None', "country"] = None
+    df.to_csv(rel_url + '/data/processed/forbes_clean.csv')
     return df
-
-
-if __name__ == "__main__":
-    df = importing_merging('../data/raw/JulenC.db')
-    print(df)
-    df = data_cleaning(df)
-    print(df)
