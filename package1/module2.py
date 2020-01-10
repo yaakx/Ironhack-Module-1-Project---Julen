@@ -51,4 +51,5 @@ def regions_world(url):
     df_d = df_d.merge(df, left_on="country", right_on="Country", how="left")
     df_d = df_d.loc[:, ["country", "Region"]]
     df_d.columns = ["Country", "Region"]
+    df_d = df_d.drop_duplicates()
     df_d.to_csv(url + "/data/processed/regions_world.csv")
